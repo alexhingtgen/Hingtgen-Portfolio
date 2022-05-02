@@ -29,4 +29,4 @@ Photos used in the template
 * http://www.publicdomainpictures.net/view-image.php?image=19999
 * http://www.publicdomainpictures.net/view-image.php?image=6354
 * http://imcreator.com/free/business/macbook-computer
-* http://unsplush.com
+* http://unsplash.com
