@@ -16,6 +16,8 @@ In this project, I designed a portfolio website on a personalized domain to show
 ## General Information
 My portfolio website was created to complete one of the required assignments for my Digital Product Management course at the University of Iowa. The assignment utilized knowledge learned throughout the class to create this digital landing page, which is intended to serve as a tool in future job application processes. The website highlights my technical abilities and proves my ability to work with HTML. I configured a domain that I purchased to my personal website and configured a Google Analytics account to track the web traffic of my portfolio page.
 
+The completed portfolio website can be found at the following link: https://alexhingtgen.com/
+
 ## Technologies Used
 - GitHub
 - Microsoft Azure
