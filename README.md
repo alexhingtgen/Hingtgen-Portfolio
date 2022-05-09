@@ -56,7 +56,7 @@ Room for improvement:
 
 To do:
 - Update the portfolio website as new events and successes occur in my life
-- Upload new photos and an current resume after some time passes
+- Upload new photos and a current resume after some time passes
 - It could be wortwhile to add more pages to the website to further display who I am
 
 ## Acknowledgements
