@@ -53,6 +53,7 @@ Room for improvement:
 - Website design could flow more smoothly and offer a more simplified path through the pages
 - Professional image of myself on the Home page could be larger and higher quality
 - Links showing information about the organization memberships I have could be provided
+
 To do:
 - Update the portfolio website as new events and successes occur in my life
 - Upload new photos and an current resume after some time passes
