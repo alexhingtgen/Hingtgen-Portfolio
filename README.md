@@ -32,7 +32,7 @@ The ready features for my online portfolio include:
 - Attractive design largely based on a template version
 
 ## Screenshots
-![Portfolio Website Screenshot](./img/screenshot.png)
+![Portfolio Website Screenshot]()
 
 ## Setup
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
