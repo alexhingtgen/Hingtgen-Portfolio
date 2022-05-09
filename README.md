@@ -1,32 +1,65 @@
-Initio - Free, multipurpose html5 template
-=============
+# Alex Hingtgen Portfolio Website
+In this project, I designed a portfolio website on a personalized domain to showcase personal information and achievements.
 
-Initio is a fully featured html5 theme which will help you create a stylish personal or company site. 
-6 page layout templates should cover all your development needs. 
-Font Awesome 4, parallax effects and more are included (but can be turned off of course)
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Usage](#usage)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 
-
-License
--------
-**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
-
-
-Bug tracker
------------
-
-Found a bug? Please create an issue here on GitHub! 
-https://github.com/pozh/Initio/issues
+## General Information
 
 
+## Technologies Used
+- GitHub
+- Microsoft Azure
+- Visual Studio Code
 
-Credits
--------
-* Design and development: **Sergey Pozhilov** - http://pozhilov.com
-* More free templates by Sergey: http://gettemplate.com
+## Features
+The ready features for my online portfolio include:
+- Awesome feature 1
+- Awesome feature 2
+- Awesome feature 3
 
-Photos used in the template
--------
-* http://www.publicdomainpictures.net/view-image.php?image=19999
-* http://www.publicdomainpictures.net/view-image.php?image=6354
-* http://imcreator.com/free/business/macbook-computer
-* http://unsplash.com
+## Screenshots
+![Example screenshot](./img/screenshot.png)
+
+## Setup
+What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+
+Proceed to describe how to install / setup one's local environment / get started with the project.
+
+## Usage
+How does one go about using it?
+
+## Project Status
+Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+
+
+## Room for Improvement
+Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+
+Room for improvement:
+- Improvement to be done 1
+- Improvement to be done 2
+
+To do:
+- Feature to be added 1
+- Feature to be added 2
+
+
+## Acknowledgements
+Give credit here.
+- This project was inspired by...
+- This project was based on [this tutorial](https://www.example.com).
+- Many thanks to...
+
+
+## Contact
+Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
