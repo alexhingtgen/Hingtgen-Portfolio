@@ -1,5 +1,5 @@
 # Alex Hingtgen Portfolio Website
-In this project, I designed a portfolio website on a personalized domain to showcase personal information and achievements.
+In this project, I designed a portfolio website on a personalized domain to showcase my personal information and achievements.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -14,21 +14,25 @@ In this project, I designed a portfolio website on a personalized domain to show
 * [Contact](#contact)
 
 ## General Information
-
+My portfolio website was created to complete one of the required assignments for my Digital Product Management course at the University of Iowa. The assignment utilized knowledge learned throughout the class to create this digital landing page, which is intended to serve as a tool in future job application processes. The website highlights my technical abilities and proves my ability to work with HTML. I configured a domain that I purchased to my personal website and configured a Google Analytics account to track the web traffic of my portfolio page.
 
 ## Technologies Used
 - GitHub
 - Microsoft Azure
 - Visual Studio Code
+- HTML coding language
+- CSS coding language
 
 ## Features
 The ready features for my online portfolio include:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- General information regarding work experience and organization memberships
+- Professional images and photos relating to my interests
+- Section for accomplishments and hobbies
+- Links to external resources like my LinkedIn account
+- Attractive design largely based on a template version
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Portfolio Website Screenshot](./img/screenshot.png)
 
 ## Setup
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
@@ -46,20 +50,15 @@ Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- 
+- 
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
-
+- 
+- 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
+The portfolio website project was assigned by the University of Iowa Associate Professor of Practice named Michael Colbert and guidance was provided by the teacher throughout the project. Furthermore, the portfolio design came from a free, multipurpose html5 template on Initio.
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@alexhingtgen](https://github.com/alexhingtgen) - please feel free to contact me!
